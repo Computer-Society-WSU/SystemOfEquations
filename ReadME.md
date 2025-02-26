@@ -2,7 +2,7 @@
 ---
 
 
-# Systems of Equations in Python: A Beginner’s Guide ENGN 107 
+# Systems of Equations in Python: A Beginner’s Guide ENGR 107 - SWE Workshop
 
 Welcome to the **Systems of Equations Workshop**! In this workshop, we’ll learn how Python can solve systems of equations — and yes, even calculate how many kombuchas and cappuccinos you ordered. (Because who doesn’t need to know the precise extent of their caffeine addiction?) 
 
