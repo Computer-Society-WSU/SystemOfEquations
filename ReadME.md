@@ -1,7 +1,7 @@
 
 ---
 
-```markdown
+
 # Systems of Equations in Python: A Beginner’s Guide
 
 Welcome to the **Systems of Equations Workshop**! In this workshop, we’ll learn how Python can solve systems of equations — and yes, even calculate how many kombuchas and cappuccinos you ordered. (Because who doesn’t need to know the precise extent of their caffeine addiction?) 
@@ -40,7 +40,7 @@ Python is the language we’re using, and here’s how you get it installed on y
 - **Step 1:** Most Linux distributions come with Python pre-installed. Check by opening a terminal and typing:
   ```bash
   python3 --version
-  ```
+
 - **Step 2:** If it’s not installed, use your package manager. For example, on Ubuntu/Debian:
   ```bash
   sudo apt-get update
@@ -53,7 +53,7 @@ Python is the language we’re using, and here’s how you get it installed on y
 
 ---
 
-### 2. **Installing Homebrew (Mac Only)**
+### 2. **Installing Homebrew (Mac Only) // IF HOMEBREW NOT INSTALLED**
 
 Homebrew is a package manager for macOS that makes installing software (like Python) a breeze. If you’d prefer to use Homebrew to install Python or other tools, follow these steps:
 
